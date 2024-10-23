@@ -20,8 +20,8 @@ This project implements a chatbot using FastAPI, LangChain, Groq, and FAISS for 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/chatbot-fastapi-langchain.git
-    cd chatbot-fastapi-langchain
+    git clone https://github.com/shivanshu007/Building-a-FastAPI-Powered-Chatbot-with-LangChain-and-Groq.git
+    cd Building-a-FastAPI-Powered-Chatbot-with-LangChain-and-Groq
     ```
 
 2. **Create a virtual environment:**
