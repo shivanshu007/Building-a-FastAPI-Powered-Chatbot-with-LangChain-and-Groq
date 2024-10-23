@@ -102,7 +102,7 @@ Response: Reloads the documents and updates the embeddings.
 Project Structure
 ```bash
 .
-├── main.py              # FastAPI application
+├── app.py              # FastAPI application
 ├── requirements.txt     # List of dependencies
 ├── .env                 # Environment variables (e.g., API keys)
 └── README.md            # Project documentation
